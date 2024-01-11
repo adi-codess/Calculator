@@ -21,6 +21,4 @@ A simple Python calculator that performs basic arithmetic operations.
 ## Issues
 #### Feel free to raise Issues and contribute to the inprovement.
 
-## Download
-#### <a>https://github.com/b927b4ce-5629-43b5-a707-1fb033d032fd</a>
-#
+### <a href="https://github.com/b927b4ce-5629-43b5-a707-1fb033d032fd">Download</a>
