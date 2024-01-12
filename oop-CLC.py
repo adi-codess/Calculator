@@ -9,7 +9,7 @@ class Calculator:
               if b == "":
                   print("\n=========================! BLANK INPUT !=========================\n=========================! RESTART !=========================\n")
                   Calculator.repeater()
-          a,b = int(a),int(b)                 
+          a,b = float(a),float(b)                 
           operator = int(
               input('''
           Enter the operator : 
