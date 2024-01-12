@@ -21,4 +21,4 @@ A simple Python calculator that performs basic arithmetic operations.
 ## Issues
 #### Feel free to raise Issues and contribute to the inprovement.
 
-#### Download ➡️ <a href="https://github.com/adi-codess/Calculator/releases/tag/v1.0.1" target="_blank">Here</a>
+#### Download ➡️ <a href="https://github.com/adi-codess/Calculator/releases/" target="_blank">Here</a>
